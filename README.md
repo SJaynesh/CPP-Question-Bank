@@ -4,6 +4,8 @@
 
 ## `Introduction To C++:`
 
+<br>
+
 >  1. What is the history of C++ language?
 >  2. What is the importance of C++ language?
 >  3. What is difference between C & C++ ?
@@ -13,6 +15,8 @@
 
 ## `Object Oriented Programming System (OOPs):`
 
+<br>
+
 > 1. What is Object Oriented Programming System (OOPs)? Why we should follow it?
 > 2. Explain the Principles of OOP.
 > 3. What is Class & Object? Explain with examples.
@@ -21,6 +25,8 @@
 <br><br>
 
 ## `Encapsulation:`
+
+<br>
 
 > 1. What is Data Encapsulation ?
 > 2. Explain the use of setter & getter.
@@ -43,6 +49,8 @@
 
 ## `Inheritance:`
 
+<br>
+
 > 1. What is Inheritance? Explain with examples in detail.
 > 2. What is super class and derived class in inheritance?
 > 3. Explain types of inheritance?
@@ -59,6 +67,8 @@
 
 ## `Polymorphism:`
 
+<br>
+
 > 1. What is Polymorphism? Explain with examples in detail.
 > 2. Explain types of polymorphism with example in detail.
 > 3. Explain compile time polymorphism with example.
@@ -72,12 +82,29 @@
 
 ## `Data Abstraction:`
 
+<br>
+
 > 1. What is Data Abstraction? Explain with examples in detail.
 > 2. What is different between Access modifiers and Visibility modifiers.
 > 3. How to create abstract class? Explain pure virtual function.
 > 4. Explain different between virtual function and pure virtual function.
 > 5. What is Abstraction class ? Explain with example detail.
-> 6.  
+
+
+<br><br>
+
+## `Exception Handling:`
+
+<br>
+
+> 1. What is Exception? Explain with an example.
+> 2. What is Exception Handling? Explain with an example.
+> 3. Explain different between Error and Exception.
+> 4. Explain try, catch block in detail.
+> 5. Explain general exception block.
+> 6. How to implement general exception block?
+> 7. How to create class attributes as public or private?  
+
 
 
 
