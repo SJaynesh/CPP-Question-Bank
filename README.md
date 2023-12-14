@@ -52,8 +52,36 @@
 > 7. Explain Multiple Inheritance with examples in detail.
 > 8. Explain Hybrid Inheritance with examples in detail.
 > 9. Why should we create class attributes as protected?
-> 10. Explain error of Ambiguity. How to solve error of ambiguity.
-> 11.  
+> 10. Explain error of Ambiguity. How to solve error of ambiguity. and in which types of inheritance can this error occur?
+
+
+<br><br>
+
+## `Polymorphism:`
+
+> 1. What is Polymorphism? Explain with examples in detail.
+> 2. Explain types of polymorphism with example in detail.
+> 3. Explain compile time polymorphism with example.
+> 4. Explain run time polymorphism with example.
+> 5. Explain method overloading with example.
+> 6. Explain method overriding with example.
+> 7. Explain operator overloading with example in detail.
+
+<br><br>
+
+
+## `Data Abstraction:`
+
+> 1. What is Data Abstraction? Explain with examples in detail.
+> 2. What is different between Access modifiers and Visibility modifiers.
+> 3. How to create abstract class? Explain pure virtual function.
+> 4. Explain different between virtual function and pure virtual function.
+> 5. What is Abstraction class ? Explain with example detail.
+> 6.  
+
+
+
+
 
 
 
