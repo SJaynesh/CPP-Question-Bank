@@ -44,6 +44,8 @@
 > 14. Explain Implicit copy constructor with example.
 > 15. Explain Explicit copy constructor with example.
 > 16. What is destructor? How to create destructor in class.
+> 17. Diffrent between variable and data member(atributes).
+> 18. Diffrent between method(UDF) and data member function. 
 
 <br><br>
 
